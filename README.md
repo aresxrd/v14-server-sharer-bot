@@ -1,4 +1,4 @@
-# 75
+# 75 Star Gelince Paylaşacağım.
 Sunucu Paylaşan Sunucular İçin (serverland) Otomatik Sunucu Paylaşım Sistemi
 
 # Özellikler
